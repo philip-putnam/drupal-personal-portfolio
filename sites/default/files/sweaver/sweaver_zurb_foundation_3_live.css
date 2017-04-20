@@ -1,0 +1,23 @@
+.page .l-footer {
+  text-align: center;
+}
+
+.medium-3 .block {
+  padding-left: 22px;
+  padding-top: 18px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  width: 222px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 250px;
+}
+
+.sticky .top-bar {
+  height: 77px;
+  font-size: 16px;
+  padding-top: 14px;
+}
+
